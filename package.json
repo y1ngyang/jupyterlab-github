@@ -43,7 +43,7 @@
     "@jupyterlab/coreutils": "^1.0",
     "@jupyterlab/docmanager": "^0.16.0",
     "@jupyterlab/docregistry": "^0.16.0",
-    "@jupyterlab/filebrowser": "^0.16.0",
+    "@jupyterlab/filebrowser": "^3.0.6",
     "@jupyterlab/observables": "^1.0",
     "@jupyterlab/services": "^2.0",
     "@phosphor/algorithm": "^1.1.2",
